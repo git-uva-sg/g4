@@ -10,7 +10,11 @@ li {
 }
 
 input {
+<<<<<<< HEAD
 	background-color: rgba(21, 173, 56, 0.2);
+=======
+	background-color: #670c29;
+>>>>>>> 4990bd462114fda1dbe46539d32f325890e64e60
 	border: none;
 	border-radius: 2px;
 	text-align: left;
@@ -19,12 +23,12 @@ input {
 
 h1{
 	font-family: sans-serif;
-	color: #F07334;
+	color: #7a3535;
 }
 
 .container {
     font-family: sans-serif;
-    border: 2px solid #F07334;
+    border: 2px solid #f9447a;
     width: 24%;
     text-align: center;
     margin: auto;

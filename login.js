@@ -1,6 +1,10 @@
 var count = 2;
 
+<<<<<<< HEAD
 function validatesiquieres ()
+=======
+function validar ()
+>>>>>>> 4990bd462114fda1dbe46539d32f325890e64e60
 {
    var user = document.login.username.value;
    var password = document.login.password.value;
