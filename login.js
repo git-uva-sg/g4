@@ -1,6 +1,6 @@
 var count = 2;
 
-function validate ()
+function validatesiquieres ()
 {
    var user = document.login.username.value;
    var password = document.login.password.value;
