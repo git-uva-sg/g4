@@ -10,7 +10,7 @@ li {
 }
 
 input {
-	background-color: #353;
+	background-color: rgba(21, 173, 56, 0.2);
 	border: none;
 	border-radius: 2px;
 	text-align: left;
